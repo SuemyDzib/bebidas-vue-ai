@@ -90,3 +90,7 @@ Como esta es una aplicación que corre completamente en el navegador, cualquier 
 ## 🙌 Créditos
 
 - Recetas e imágenes de [TheCocktailDB](https://www.thecocktaildb.com/).
+
+## 👤 Autor
+
+Desarrollado por **Suemy Dzib** – [@SuemyDzib](https://github.com/SuemyDzib) a través del curso de Udemy impartido por Juan de la Torre.

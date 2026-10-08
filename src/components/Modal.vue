@@ -62,7 +62,7 @@
                             Instrucciones
                         </DialogTitle>
 
-                        <p class="text-lg text-gray-500">{{ bebidas.receta.strInstructions }} </p>
+                        <p class="text-lg text-gray-500">{{ bebidas.receta.strInstructionsES ? bebidas.receta.strInstructionsES : bebidas.receta.strInstructions }} </p>
 
                   </div>
                 </div>
